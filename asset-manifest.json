@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://abkcodes.github.io/csb-167wx/static/js/main.e0c9d223.chunk.js",
+    "main.js.map": "https://abkcodes.github.io/csb-167wx/static/js/main.e0c9d223.chunk.js.map",
+    "runtime-main.js": "https://abkcodes.github.io/csb-167wx/static/js/runtime-main.08a2fe8f.js",
+    "runtime-main.js.map": "https://abkcodes.github.io/csb-167wx/static/js/runtime-main.08a2fe8f.js.map",
+    "static/js/2.7996e7bb.chunk.js": "https://abkcodes.github.io/csb-167wx/static/js/2.7996e7bb.chunk.js",
+    "static/js/2.7996e7bb.chunk.js.map": "https://abkcodes.github.io/csb-167wx/static/js/2.7996e7bb.chunk.js.map",
+    "index.html": "https://abkcodes.github.io/csb-167wx/index.html",
+    "precache-manifest.6f249842e3ea36f69e2ca704c5556e4e.js": "https://abkcodes.github.io/csb-167wx/precache-manifest.6f249842e3ea36f69e2ca704c5556e4e.js",
+    "service-worker.js": "https://abkcodes.github.io/csb-167wx/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08a2fe8f.js",
+    "static/js/2.7996e7bb.chunk.js",
+    "static/js/main.e0c9d223.chunk.js"
+  ]
+}
